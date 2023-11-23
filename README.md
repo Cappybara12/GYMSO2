@@ -48,7 +48,7 @@ Learn about personalized dieting options and how GymSo Fitness helps you achieve
 
 Discover the machine learning models used in GymSo Fitness to enhance the user experience.
 
-#### 1- LLM Chatbot
+# 1- LLM Chatbot
 
 Sure, here's a basic README file for your Python script and the command to run it:
 
