@@ -72,6 +72,53 @@ This project utilizes the LangChain library to create a language model chain tha
    chainlit run LLM.py
    ```
 
+# 2 - Posture CV
+## Project Title: Bicep Curls Counter with Pose Detection
+
+### Overview:
+This project uses the MediaPipe library for pose detection to count bicep curls based on the movement of the left and right arms. The script captures webcam input, detects key landmarks on the user's body, and calculates the angle between the shoulder, elbow, and wrist to determine a bicep curl. The counts for left and right bicep curls are displayed on the screen.
+
+### Dependencies:
+- Python 3.6 or higher
+- OpenCV (`cv2`)
+- NumPy (`numpy`)
+- MediaPipe (`mediapipe`)
+
+Install dependencies using:
+```bash
+pip install opencv-python numpy mediapipe
+```
+
+### Usage:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prtm1908/Gymso-VR-Fitness.git
+   cd your-repo
+   ```
+
+2. Run the script:
+   ```bash
+   python app.py
+   ```
+
+### Instructions:
+- The script captures webcam input and uses the MediaPipe pose detection model to identify key landmarks on the body.
+- The angle between the shoulder, elbow, and wrist is calculated to determine a bicep curl.
+- Counts for left and right bicep curls are displayed on the screen.
+- Press 'r' to reset the bicep curl counters.
+- Press 'Esc' to exit the application.
+
+### Additional Notes:
+- Ensure you have a webcam connected and accessible.
+- This script assumes that the left and right bicep curls are performed independently.
+- Adjust the angle thresholds in the script based on your specific exercise form.
+
+### Model Information:
+- The script uses the MediaPipe pose detection model for landmark identification.
+- Additionally, a model for shoulder and chest detection is used (provide details on the model and how to obtain it).
+
+Feel free to customize the README file based on your specific project details and requirements.
+
 ### Input:
 The script expects input questions related to health, fitness, exercise, and workout. It generates specific answers with references to exercises in an academic style suitable for an audience aged 18-25.
 
@@ -80,7 +127,7 @@ The script outputs a paragraph-length response based on the provided question.
 
 ### Example Usage:
 ```bash
-chainlit run LLM.py
+python app.py
 ```
 
 ### Additional Notes:
