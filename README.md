@@ -1,4 +1,6 @@
-# GymSo Fitness
+# GymSo Fitness 💪
+![Uploading WorkoutGymGIF.gif…]()
+
 
 Welcome to GymSo Fitness – Your Virtual Gym Experience!
 
