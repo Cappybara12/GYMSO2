@@ -90,4 +90,4 @@ To start your virtual fitness journey with GymSo Fitness, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GymSo-Fitness.git
+   git clone https://github.com/manas/Gymso-VR-Fitness.git
