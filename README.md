@@ -30,6 +30,24 @@ Tailor your diet to achieve specific muscle gains with personalized dieting opti
 ### Gamified Gym Experience
 
 Transform your workout routine into a fun and interactive experience. Earn rewards, track your progress, and compete with friends in fitness challenges. Our gamification approach makes exercising at home enjoyable and motivating.
+## Pages
+
+### 1. [Homepage](#homepage)
+
+Provide an overview of GymSo Fitness, its features, and how users can get started.
+
+### 2. [Exercises Page](#exercises-page)
+
+Explore the different exercises and virtual fitness experiences available in GymSo Fitness.
+
+### 3. [Calorie Page](#calorie-page)
+
+Learn about personalized dieting options and how GymSo Fitness helps you achieve your fitness goals.
+
+### 4. [ML Models](#ml-models)
+
+Discover the machine learning models used in GymSo Fitness to enhance the user experience.
+
 
 ## Getting Started
 
